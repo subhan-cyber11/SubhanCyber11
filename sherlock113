@@ -1,0 +1,64 @@
+"""
+Sherlock username checker script
+(Only for educational purposes)
+# Sherlock Username Checker Script  
+*(Only for educational purposes)*
+
+This script checks the availability of a given username
+across multiple social media platforms.
+"""
+This script checks the availability of a given username across multiple social media platforms.
+
+---
+
+## Code example
+
+```python
+import sherlock
+
+def check_username(username):
+@@ -15,18 +17,33 @@ def check_username(username):
+if __name__ == "__main__":
+    target_username = "m.a.n.i.i112"  # Example username
+    check_username(target_username)
+# Sherlock Username Checker
+
+This is a simple script using Sherlock to check the availability of a username across many social media platforms.
+
+⚠️ **Important:** This tool is intended **only for educational purposes** and ethical use. Do not use it for any unauthorized or malicious activity.
+
+## Usage
+
+Activate virtual environment:
+
+```bash
+python3 -m venv sherlock-venv
+source sherlock-venv/bin/activate
+pip install sherlock
+python3 sherlock_project.py <username>
+python3 sherlock_project.py <m.a.n.i.i112>
+[*] Checking username m.a.n.i.i112 on:
+
+[+] ArtStation: https://www.artstation.com/m.a.n.i.i112
+[+] Chaos: https://chaos.social/@m.a.n.i.i112
+[+] Cults3D: https://cults3d.com/en/users/m.a.n.i.i112/creations
+[+] EyeEm: https://www.eyeem.com/u/m.a.n.i.i112
+[+] GNOME VCS: https://gitlab.gnome.org/m.a.n.i.i112
+[+] GaiaOnline: https://www.gaiaonline.com/profiles/m.a.n.i.i112
+[+] Giphy: https://giphy.com/m.a.n.i.i112
+[+] kaskus: https://www.kaskus.co.id/@m.a.n.i.i112
+[+] Mydramalist: https://www.mydramalist.com/profile/m.a.n.i.i112
+[+] Weblate: https://hosted.weblate.org/user/m.a.n.i.i112/
+[+] YandexMusic: https://music.yandex/users/m.a.n.i.i112/playlists
+[+] chaos.social: https://chaos.social/@m.a.n.i.i112
+[+] livelib: https://www.livelib.ru/reader/m.a.n.i.i112
+[+] mastodon.cloud: https://mastodon.cloud/@m.a.n.i.i112
+[+] mastodon.social: https://mastodon.social/@m.a.n.i.i112
+[+] mastodon.xyz: https://mastodon.xyz/@m.a.n.i.i112
+[+] mstdn.io: https://mstdn.io/@m.a.n.i.i112
+[+] omg.lol: https://m.a.n.i.i112.omg.lol
+[+] social.tchncs.de: https://social.tchncs.de/@m.a.n.i.i112
+[+] svidbook: https://www.svidbook.ru/user/m.a.n.i.i112
+[+] threads: https://www.threads.net/@m.a.n.i.i112
+
+[*] Search completed with 21 results
