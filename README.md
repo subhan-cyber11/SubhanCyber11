@@ -5,7 +5,7 @@
 💻 Founder of **Cyber Shield Academy** — [https://cybershieldacademy.wordpress.com/](https://cybershieldacademy.wordpress.com/)  
 🌐 Skilled in: **Nmap**, **WPScan**, **Sherlock**, **PhoneInfoga**, **Burp Suite**, **Python**, **OSINT**, **Ethical Brute Force Testing**  
 📡 Networking: **OSPF**, **Subnetting**, **Cisco Packet Tracer**, **Switches & Routers**  
-🐧 Linux: **Ubuntu**, **Fedora**, **WSL**, **VMware Virtual Machines**  
+🐧 Linux: **Ubuntu**, **Fedora**, **WSL**,**VMware Virtual Machines**  
 🎯 Passionate about securing systems, finding vulnerabilities, and teaching others.  
 
 📬 **Contact:** subhanirfan630@gmail.com  
